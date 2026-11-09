@@ -4,7 +4,7 @@
 I build small, complete games in Unity and Unreal Engine, mostly narrative adventures, puzzle levels and platformers.
 I'm most interested in **narrative design** and **level design**: a choice, a note on a wall or a hidden button that changes how you see the whole game.
 
-🌐 **Portfolio:** [mykoladel.github.io](https://mykoladel.github.io) · 📄 **CV:** [mykoladel.github.io/cv.html](https://mykoladel.github.io/cv.html) · ✉️ ylive9965@gmail.com
+🌐 **Portfolio:** [mykoladel.github.io](https://mykoladel.github.io) · 📄 **CV:** [mykoladel.github.io/cv.html](https://mykoladel.github.io/cv.html) · ✉️ ylive9964@gmail.com
 
 ---
 
