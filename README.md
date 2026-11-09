@@ -4,7 +4,7 @@
 I build small, complete games in Unity and Unreal Engine, mostly narrative adventures, puzzle levels and platformers.
 I'm most interested in **narrative design** and **level design**: a choice, a note on a wall or a hidden button that changes how you see the whole game.
 
-🌐 **Portfolio:** [mykoladel.github.io](https://mykoladel.github.io) · 📄 **CV:** [mykoladel.github.io/cv.html](https://mykoladel.github.io/cv.html) · ✉️ ylive9964@gmail.com
+🌐 **Portfolio:** [mykoladel.github.io](https://mykoladel.github.io) · 🕹️ **Games:** [mykoladel.itch.io](https://mykoladel.itch.io) · 📄 **CV:** [mykoladel.github.io/cv.html](https://mykoladel.github.io/cv.html) · ✉️ ylive9964@gmail.com
 
 ---
 
@@ -14,8 +14,8 @@ I'm most interested in **narrative design** and **level design**: a choice, a no
 |---|---|
 | <img src="https://mykoladel.github.io/img/fc-menu.jpg" width="360"> | **[The First Colour](https://mykoladel.github.io/#work)**<br>Dark-fantasy narrative adventure. A burnt-out painter is pulled into a city stuck in twilight; how she treats Kessa decides which of five endings she reaches.<br>`Unity 6` `Visual Scripting` `Ink` |
 | <img src="https://mykoladel.github.io/img/kirk-2.jpg" width="360"> | **[Kirk's Notes](https://mykoladel.github.io/#work)**<br>First-person maze puzzle. Notes on the walls guide you through colour-key doors and turrets, until you find the man who wrote them.<br>`Unity` `Level design` |
-| <img src="https://mykoladel.github.io/img/robot-1.jpg" width="360"> | **[Robot Teleport Puzzle](https://mykoladel.github.io/#work)**<br>A new teleport mechanic added to an existing puzzle template, triggered by buttons and pressure plates, with a secret ending.<br>`Unreal Engine` `Blueprints` |
-| <img src="https://mykoladel.github.io/img/lk-4.jpg" width="360"> | **[LazyKnight](https://mykoladel.github.io/#work)**<br>Four-level 2D platformer with moving hazards and a fireball ability on the final level.<br>`Unity 2D` |
+| <img src="https://mykoladel.github.io/img/robot-1.jpg" width="360"> | **[Robot Teleport Puzzle](https://mykoladel.itch.io/robot-teleport-puzzle)**<br>A new teleport mechanic added to an existing puzzle template, triggered by buttons and pressure plates, with a secret ending.<br>`Unreal Engine` `Blueprints` |
+| <img src="https://mykoladel.github.io/img/lk-4.jpg" width="360"> | **[LazyKnight](https://mykoladel.itch.io/lazyknight)**<br>Four-level 2D platformer with moving hazards and a fireball ability on the final level.<br>`Unity 2D` |
 
 ---
 
